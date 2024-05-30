@@ -4,6 +4,13 @@
 
 This project presents a comprehensive data cleaning process for a global dataset on corporate layoffs spanning from 2020 to 2023.
 
+#### Data Cleaning Steps
+
+1. Removed duplicates
+2. Standardized the data
+3. Populated NULL values / BLANK values
+4. Removed any unnecessary columns and rows
+
 #### Data Source
 
 https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
