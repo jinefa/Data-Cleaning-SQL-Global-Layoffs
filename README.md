@@ -1,45 +1,22 @@
-# Data-Cleaning-SQL
+# Data Cleaning Project in SQL 🧼
 //
 ### Project Overview
 
-lalalalalal
+This project presents a comprehensive data cleaning process for a global dataset on corporate layoffs spanning from 2021 to 2023.
 
-### Data Sources
+### Data Source
 
-What data set has been used?
+https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
 ### Tools
 
-Which tools have been used
 - MySQL Workbench
 
-### Data Cleaning/preparation
+### References
 
--1
--2
--3
-
-### Exploratory Data Analysis
-
-lalalala
+AlexTheAnalyst
 
 
-### Data Analysis
-
-lalalala
+### Code
 
 
-### Results
-
-lalalal
-
-### Recommendations
-
-lalala
-
-
-### Limitations 
-
-What has effected the accuracy of your analysis
-
-References
