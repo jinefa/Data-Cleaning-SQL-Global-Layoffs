@@ -1,4 +1,4 @@
-# Data Cleaning Project Global Layoffs in SQL 🧼
+# Data Cleaning Project in SQL - Global Layoffs
 
 #### Project Overview
 
